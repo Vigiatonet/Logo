@@ -1,0 +1,73 @@
+.vigiato {
+    position: relative;
+    width: 350px;
+    margin: 50px auto;
+  }
+  .vigiato div {
+    position: absolute;
+    margin-top: 200px;
+  }
+  .chiz {
+    border-width: 0px 15px 25px 15px;
+    border-style: solid;
+    border-right-color: transparent;
+    border-left-color: transparent;
+    height: 0;
+  }
+  .red_1 {
+    border-bottom-color: #e21f2f;
+    width: 322px;
+    top: 80px;
+    left: 90px;
+    -webkit-transform: rotate(-60deg);
+  }
+  .red_2 {
+    border-bottom-color: #e21f2f;
+    width: 265px;
+    top: 105px;
+    left: -22px;
+    -webkit-transform: rotate(60deg);
+  }
+  .red_3 {
+    border-bottom-color: #e21f2f;
+    width: 260px;
+    top: -55px;
+    left: 15px;
+    -webkit-transform: rotate(-180deg);
+  }
+  .red_4 {
+    border-bottom-color: #e21f2f;
+    width: 30px;
+    top: -24.8px;
+    left: 235.4px;
+    -webkit-transform: rotate(-60deg);
+  }
+  .red_5 {
+    border-bottom-color: #e21f2f;
+    width: 135.4px;
+    top: -5.3px;
+    left: 110.3px;
+    -webkit-transform: rotate(-180deg);
+  }
+  .red_6 {
+    border-bottom-color: #e21f2f;
+    width: 131px;
+    top: 45px;
+    left: 66.7px;
+    -webkit-transform: rotate(60deg);
+  }
+  .red_7 {
+    border-bottom-color: #e21f2f;
+    width: 74px;
+    top: 90px;
+    left: 151px;
+    -webkit-transform: rotate(-60deg);
+  }
+  .red_8 {
+    border-bottom-color: #e21f2f;
+    width: 50px;
+    top: 42px;
+    left: 173px;
+    -webkit-transform: rotate(-180deg);
+  }
+  
